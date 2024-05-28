@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xubair001/WheelsMasail.git/static/css/main.0f15f65c.css",
+    "main.js": "/Xubair001/WheelsMasail.git/static/js/main.8f9d542c.js",
+    "static/media/BrandLogo.jpeg": "/Xubair001/WheelsMasail.git/static/media/BrandLogo.549994f5ae507f853745.jpeg",
+    "static/media/About.jpg": "/Xubair001/WheelsMasail.git/static/media/About.8cd2e387c97a33c0a688.jpg",
+    "index.html": "/Xubair001/WheelsMasail.git/index.html",
+    "main.0f15f65c.css.map": "/Xubair001/WheelsMasail.git/static/css/main.0f15f65c.css.map",
+    "main.8f9d542c.js.map": "/Xubair001/WheelsMasail.git/static/js/main.8f9d542c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f15f65c.css",
+    "static/js/main.8f9d542c.js"
+  ]
+}
